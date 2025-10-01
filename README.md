@@ -2,10 +2,7 @@
 
 ## Overview
 **The chalange**
-- Create Blog API Project
-
-**Links**
-  - Project URL: 
+- Create Blog API Project 
 
 **What I learned**
 - Creating GET, POST, PUT, PATCH, DELETE routes;
